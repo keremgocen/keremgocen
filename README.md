@@ -1,6 +1,6 @@
 ### Hi there, I'm Kerem 👋
 
-- 🔭 I’m currently working on building fullstack tools for an insurtech in the UK
+- 🔭 I’m currently working as a software engineer in the UK
 - 🌱 I’m currently learning to play drums 🥁
 - 👯 I’m looking to collaborate on golang/typescript open-source, and building robots
 - 🤔 I’m looking for help with bending time ⏲️ and space ⭐
