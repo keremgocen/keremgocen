@@ -1,8 +1,8 @@
 ### Hi there, I'm Kerem 👋
 
-- 🔭 I’m currently working as a software engineer in the UK
+- 🔭 I’m currently working as a software engineer in the UK, making multiplayer games
 - 🌱 I’m currently learning to play drums 🥁
-- 👯 I’m looking to collaborate on golang/typescript open-source, and building robots
+- 👯 I’m looking to collaborate on golang/typescript open-source
 - 🤔 I’m looking for help with bending time ⏲️ and space ⭐
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I studied computer science and dropped from my master's (focused on ML) before finishing my thesis
