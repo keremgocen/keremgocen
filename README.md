@@ -1,11 +1,6 @@
 ### Hi there, I'm Kerem 👋
 
 - 🔭 I’m currently working as a software engineer in the UK, making multiplayer games
-- 🌱 I’m currently learning to play drums 🥁
-- 👯 I’m looking to collaborate on golang/typescript open-source
-- 🤔 I’m looking for help with bending time ⏲️ and space ⭐
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I studied computer science and dropped from my master's (focused on ML) before finishing my thesis
 - 📫 How to reach me: [![Twitter: kerem_gocen](https://img.shields.io/twitter/follow/kerem_gocen?style=social)](https://twitter.com/kerem_gocen)
 [![Linkedin: keremgocen](https://img.shields.io/badge/kerem-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keremgocen/)](https://www.linkedin.com/in/keremgocen/)
 <!--
@@ -22,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremgocen)](https://github.com/keremgocen/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremgocen)](https://github.com/keremgocen/github-readme-stats)
