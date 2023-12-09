@@ -1,6 +1,8 @@
 ### Hi there, I'm Kerem 👋
 
 - 🔭 I’m currently working as a software engineer in the UK, making multiplayer games
+- :seedling: Go, Python
+- :man: Pronouns: he/him
 - 📫 How to reach me: [![Twitter: kerem_gocen](https://img.shields.io/twitter/follow/kerem_gocen?style=social)](https://twitter.com/kerem_gocen)
 [![Linkedin: keremgocen](https://img.shields.io/badge/kerem-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keremgocen/)](https://www.linkedin.com/in/keremgocen/)
 <!--
@@ -18,6 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremgocen)](https://github.com/keremgocen/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremgocen)](https://github.com/keremgocen/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremgocen&layout=compact)
+
+---
+
+## Wakatime stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
