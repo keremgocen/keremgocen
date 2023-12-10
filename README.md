@@ -29,4 +29,13 @@ Here are some ideas to get you started:
 ## Wakatime stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Rust         2 hrs 14 mins   ████████████████░░░░░░░░░   64.62 %
+TOML         46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+Text         21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+```
+
 <!--END_SECTION:waka-->
