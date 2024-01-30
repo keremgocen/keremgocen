@@ -31,11 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   11 mins         ████████████░░░░░░░░░░░░░   47.97 %
-Go         7 mins          ████████▒░░░░░░░░░░░░░░░░   33.93 %
-Other      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Docker     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-YAML       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Go       0 secs          ████████████████████▒░░░░   81.80 %
+Docker   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
 ```
 
 <!--END_SECTION:waka-->
