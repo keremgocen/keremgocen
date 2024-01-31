@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go       0 secs          ████████████████████▒░░░░   81.80 %
-Docker   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
