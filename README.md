@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         56 mins         ████████████████████████░   96.56 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
