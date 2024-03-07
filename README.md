@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+Bash         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+Other        15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+JSON         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Makefile     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
