@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           5 hrs 51 mins   ██████████████████▓░░░░░░   74.29 %
-Bash         1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Makefile     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Go           5 hrs 26 mins   ███████████████████▒░░░░░   76.90 %
+Bash         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+Other        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
