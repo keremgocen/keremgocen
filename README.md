@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         31 mins         ██████████████████▒░░░░░░   73.40 %
-Bash       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Makefile   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Go   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
