@@ -1,9 +1,9 @@
 ### Hi there, I'm Kerem 👋
 
-- 🔭 I’m currently working as a software engineer in the UK, making multiplayer games
+- 🔭 I’m currently working as a software engineer in the UK
 - :seedling: Go, Python
 - :man: Pronouns: he/him
-- 📫 How to reach me: [![Twitter: kerem_gocen](https://img.shields.io/twitter/follow/kerem_gocen?style=social)](https://twitter.com/kerem_gocen)
+- 📫 How to reach me:
 [![Linkedin: keremgocen](https://img.shields.io/badge/kerem-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keremgocen/)](https://www.linkedin.com/in/keremgocen/)
 <!--
 **keremgocen/keremgocen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
